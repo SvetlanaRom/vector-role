@@ -19,6 +19,11 @@ galaxy_info:
 
   min_ansible_version: 2.20.1
 
+  platforms:
+  - name: Ubuntu
+    versions:
+      - 24.04
+
   # If this a Container Enabled role, provide the minimum Ansible Container version.
   # min_ansible_container_version:
 
